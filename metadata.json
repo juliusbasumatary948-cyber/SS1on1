@@ -1,0 +1,11 @@
+{
+  "name": "Sikho Sikhow - Live 1-on-1 Tutoring",
+  "description": "An immersive 1-on-1 learning platform with real-time video simulation, scheduling, tutor listings, collaborative whiteboard, shared slide decks, and class notes, connecting tutors and students.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
